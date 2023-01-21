@@ -1,0 +1,1 @@
+# aku_pharmacy_system_stock
